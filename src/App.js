@@ -102,7 +102,7 @@ function App() {
         <span class="text-sm">Don't have an account?&nbsp;</span>
         <a class="text-blue-500 text-sm font-semibold">Sign up</a>
       </div>
-      <div class="mt-3 text-center flex flex-col justify-center  ">
+      <div class="mt-12 text-center flex flex-col justify-center  ">
         <span class="text-xs">Get the app</span>
         <div class="flex mt-3 space-x-2">
           <img src="assets/gplay.png" class="bg-no-repeat w-36 h-11"></img>
@@ -111,7 +111,7 @@ function App() {
         </div>
       </div>
 
-      <p className="absolute mx-auto text-xs text-center bottom-4 text-slate-400">
+      <p className="mx-auto mt-3 text-xs text-center text-slate-400">
         © 2023 Instagram
         <img
           src="assets/meta.png"
